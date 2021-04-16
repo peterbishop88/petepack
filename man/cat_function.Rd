@@ -7,7 +7,7 @@
 cat_function(love = TRUE)
 }
 \arguments{
-\item{love}{Do you love cats? Defaults to TRUE. If you put FALSE it calls you super not cool.}
+\item{love}{Do you love cats? Defaults to TRUE. If you put FALSE it calls you super not cool. GIt push}
 }
 \description{
 This function allows you to express your love of cats.
