@@ -1,7 +1,7 @@
 #' A Cat Function
 #'
 #' This function allows you to express your love of cats.
-#' @param love Do you love cats? Defaults to TRUE. If you put FALSE it calls you super not cool. GIt push
+#' @param love Do you love cats? Defaults to TRUE. If you put FALSE it calls you super not cool. GIt push from R
 #' @keywords cats
 #' @export
 #' @examples
